@@ -1,0 +1,57 @@
+#para{
+    background-image:linear-gradient(grey,black);
+    color: whitesmoke;
+    
+    
+}
+
+#para:hover{
+    background-image: linear-gradient(rgb(229, 150, 164),purple);
+    
+}
+
+#about{
+    text-align: center;
+    text-shadow: 10px;
+    color: darkolivegreen;
+    
+}
+#each{
+    font-size: larger;
+    font-size: 25px;
+    align-content: center;
+    margin-left: 450px;
+    align-self: center;
+    text-align: center;
+    width: 250px;
+    background-color: rgb(169, 207, 238);
+}
+#about:hover{
+    color: rgb(91, 1, 91);
+    font-style: italic;
+}
+.call{
+    background-image: linear-gradient(brown,orange);
+
+    border-width: thick;
+    
+    
+    
+    
+
+    
+}
+.call:hover{
+    background-image:linear-gradient(purple,rgb(209, 110, 110));
+    text-align: left;
+    font-size: 100%;
+}
+body{
+    background-color: beige;
+    align-content: center;
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+}
