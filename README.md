@@ -1,1 +1,1 @@
-In this website you can get Emergency contacts details.Like: Police,Ambulance,fire,
+In this website you can get Emergency contacts details.Like: Police,Ambulance,fire,Women helpline,child helpline,eye bank,blood bank and sooo on.When you click on that number directly it called to that number.
